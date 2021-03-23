@@ -50,8 +50,8 @@ import (
 	"time"
 
 	"github.com/mrjones/oauth"
-	lru "github.com/youtube/vitess/go/cache"
 	"golang.org/x/oauth2"
+	lru "vitess.io/vitess/go/cache"
 )
 
 //
